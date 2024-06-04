@@ -35,6 +35,8 @@ connectDB();
 // Static Files
 app.use(express.static('public'));
 
+// Middlewares :
+
 // Templating Engine
 app.use(expressLayouts);
 app.set('layout', './layouts/main');
