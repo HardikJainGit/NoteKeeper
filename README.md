@@ -3,7 +3,6 @@
 ## Table of Contents
 * [About NoteKeeper](#about-NoteKeeper)
 * [Key Features](#key-features)
-* [More Features](#more-features)
 * [Tech Stack Used](#tech-stack-used)
 * [Installation](#installation)
 
