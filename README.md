@@ -1,3 +1,5 @@
+
+https://github.com/HardikJainGit/NoteKeeper/assets/133627261/c7774a2b-5c04-4144-a024-9ed5b0fac759
 # NoteKeeper - Note making and storage platform
 
 ## Table of Contents
@@ -54,6 +56,7 @@ NoteKeeper is a platform designed to empower you to store your thoughts, ideas, 
 - Access the website by visiting 'http://localhost:5000'
 
 ## Video Demo
-  
-https://github.com/HardikJainGit/NoteKeeper/assets/133627261/2ffad775-984e-407e-81a1-d68a67bdd567
+
+https://github.com/HardikJainGit/NoteKeeper/assets/133627261/a7fe8d7f-754e-4235-9354-2616f24a43c8
+
 
